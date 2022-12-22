@@ -1,0 +1,15 @@
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\bin\Debug\net6.0\Course.exe
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\bin\Debug\net6.0\Course.deps.json
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\bin\Debug\net6.0\Course.dll
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\bin\Debug\net6.0\Course.pdb
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.dll
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\refint\Course.dll
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.pdb
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+D:\ELIEZER\STUDIES\Programming\Projetos\CSharp\Course\Course\obj\Debug\net6.0\ref\Course.dll
